@@ -1,4 +1,9 @@
-body, div, header, section, ul, li, h1, h2, h3, h4, h5, footer, nav {
+/*Cores
+Amarelo #ccf235
+Verde #70da1c
+*/
+
+body, div, header, section, ul, li, h1, h2, h3, h4, h5, footer, nav, p {
   margin: 0px;
   padding: 0px;
 }
@@ -20,4 +25,8 @@ a:hover{
 
 li {
   list-style: none;
+}
+
+img {
+  max-width: 300px;
 }
