@@ -1,0 +1,23 @@
+body, div, header, section, ul, li, h1, h2, h3, h4, h5, footer, nav {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  color: #141414;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+a {
+  color:rgb(20, 20, 20);
+  text-decoration: none;
+  transition: .2s;
+}
+
+a:hover{
+  color: rgba(20,20,20,0.4);
+}
+
+li {
+  list-style: none;
+}
